@@ -4,6 +4,13 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
+
+    /*
+    * Github upload url
+    * https://www.youtube.com/watch?v=3p_fgJEbsp8
+    * https://www.youtube.com/watch?v=ZnS7fMPfbI8
+    *
+    * */
     var demo1: String = "demo1  testing "
     var demo2: String = "demo2 outside any function "
     override fun onCreate(savedInstanceState: Bundle?) {
